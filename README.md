@@ -44,13 +44,11 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 - ✅ Git version control
 
   **DEMO VIDEO
-  <video src="screenshot/demo-video.mov"
-       controls
-       autoplay
-       loop
-       muted
-       style="max-width:100%; border-radius:12px;">
-</video>
+  
+## 🎥 Demo Video
+
+<video src="https://raw.githubusercontent.com/numanbalik-web/udemig-course-platform/refs/heads/main/screenshot/demo-video.mp4" controls width="100%"></video>
+
 ## 🔮 Gelecek Geliştirmeler
 
 - JavaScript interaktivite
