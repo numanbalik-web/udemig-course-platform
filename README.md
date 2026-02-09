@@ -43,6 +43,14 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 - ✅ Modern CSS teknikleri
 - ✅ Git version control
 
+  **DEMO VIDEO
+  <video src="screenshot/demo-video.mov"
+       controls
+       autoplay
+       loop
+       muted
+       style="max-width:100%; border-radius:12px;">
+</video>
 ## 🔮 Gelecek Geliştirmeler
 
 - JavaScript interaktivite
