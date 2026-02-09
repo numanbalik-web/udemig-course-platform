@@ -24,9 +24,9 @@ Bu proje, Udemig eğitim programı kapsamında geliştirdiğim ilk full-page web
 
 ## 📸 Ekran Görüntüleri
 
-### Desktop Görünümü
-![Desktop](screenshot/fullpage-udemig.png)
-
+![Ana Sayfa](screenshot/screenshot-udemig1.png)
+![Bölümler](screenshot/screenshot-udemig2.png)
+![Alt Kısım](screenshot/screenshot-udemig3.png)
 ## 🚀 Kurulum
 
 Projeyi kendi bilgisayarınızda çalıştırmak için:
