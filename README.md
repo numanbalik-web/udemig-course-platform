@@ -57,7 +57,7 @@ Junior Frontend Developer
 
 - GitHub:- https://github.com/numanbalik-web 
 - LinkedIn: linkedin.com/in/numan-balik-sverige
-## 🙏 Teşekkürler
+- ## 🙏 Teşekkürler
 
 Bu projeyi geliştirirken bana rehberlik eden Udemig eğitim ekibine teşekkürler! 🎓
 
