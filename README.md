@@ -43,11 +43,10 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 - ✅ Modern CSS teknikleri
 - ✅ Git version control
 
-  **DEMO VIDEO
-  
+
 ## 🎥 Demo Video
 
-<video src="https://raw.githubusercontent.com/numanbalik-web/udemig-course-platform/refs/heads/main/screenshot/demo-video.mp4" controls width="100%"></video>
+![Demo](screenshot/demo-video.gif)
 
 ## 🔮 Gelecek Geliştirmeler
 
