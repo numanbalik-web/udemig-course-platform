@@ -6,7 +6,7 @@ Modern ve responsive bir eğitim platformu arayüzü. HTML ve CSS kullanılarak 
 
 ## 📖 Proje Hakkında
 
-Bu proje, Udemig Software Academy eğitim programı kapsamında geliştirdiğim ilk full-page web sitesidir. Gerçek bir eğitim platformunun tasarımını referans alarak, modern web geliştirme tekniklerini uyguladım.
+Bu proje, Udemig eğitim programı kapsamında geliştirdiğim ilk full-page web sitesidir. Gerçek bir eğitim platformunun tasarımını referans alarak, modern web geliştirme tekniklerini uyguladım.
 
 ## ✨ Özellikler
 
@@ -52,15 +52,14 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ## 👨‍💻 Geliştirici
 
-**Kenan Sönmez**  
+
 Junior Frontend Developer
 
-- GitHub: [@kenansonmez1617-hub](https://github.com/kenansonmez1617-hub)
-- LinkedIn: [Kenan Sönmez](https://linkedin.com/in/kenan-sönmez-685445281)
-
+- GitHub:- https://github.com/numanbalik-web 
+- LinkedIn: linkedin.com/in/numan-balik-sverige
 ## 🙏 Teşekkürler
 
-Bu projeyi geliştirirken bana rehberlik eden Udemig Academy eğitim ekibine teşekkürler! 🎓
+Bu projeyi geliştirirken bana rehberlik eden Udemig eğitim ekibine teşekkürler! 🎓
 
 ---
 
