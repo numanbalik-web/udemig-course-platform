@@ -2,7 +2,7 @@
 
 Modern ve responsive bir eğitim platformu arayüzü. HTML ve CSS kullanılarak sıfırdan geliştirilmiştir.
 
-![Project Preview](screenshots/full-page-desktop.png)
+![Project Preview](screenshot/fullpage-udemig.png)
 
 ## 📖 Proje Hakkında
 
@@ -25,7 +25,7 @@ Bu proje, Udemig eğitim programı kapsamında geliştirdiğim ilk full-page web
 ## 📸 Ekran Görüntüleri
 
 ### Desktop Görünümü
-![Desktop](screenshots/full-page-desktop.png)
+![Desktop](screenshot/fullpage-udemig.png)
 
 ## 🚀 Kurulum
 
